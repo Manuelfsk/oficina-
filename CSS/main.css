@@ -1,4 +1,15 @@
-p{
-    color: gray;
-    background-color: beige;
+#logo-loro {
+    width: 80px;
+
 }
+.menu-item{
+    border: 1px solid green;/*ccolor y borde la caja*/
+    padding:5px 12 ;
+}
+}
+.nav-link {
+    text-decoration:none ;/*quitar lineas de subrayado*/
+    text-transform:lowercase ;/*todos los textos en minusculas*/
+    
+    color: green;/*color de las palabras*/
+    
