@@ -1,15 +1,21 @@
+/*tecla# para llamar ID */
 #logo-loro {
     width: 80px;
 
+}
+/*TECLA . para llamar clase*/
+.main-menu{
+    list-style: none;/*sirve para quietar viñetas*/
+    
 }
 .menu-item{
     border: 1px solid green;/*ccolor y borde la caja*/
     padding:5px 12 ;
 }
-}
+
 .nav-link {
     text-decoration:none ;/*quitar lineas de subrayado*/
     text-transform:lowercase ;/*todos los textos en minusculas*/
-    
     color: green;/*color de las palabras*/
     
+}
